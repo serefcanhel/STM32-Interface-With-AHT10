@@ -8,10 +8,10 @@
   
   =>      AHT10         STM32F407VG
           -----         ------------
-           VIN    ==>       3V
-         Ground   ==>     Ground
-           SCL    ==>      PB6
-           SDA    ==>      PB7
+           VIN    ==>       3V -
+         Ground   ==>     Ground -
+           SCL    ==>      PB6 -
+           SDA    ==>      PB7 -
            
 
   
